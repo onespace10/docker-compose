@@ -6,12 +6,12 @@ This git repository is for docker-compose script including react from Docker Hub
 
 | name                                                                                                 | description                                                            |
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| [react-express-mongodb](https://github.com/onespace10/dockers/docker-compose/master/nginx)              | A sample React application with a Node.js backend and a Mongo database |
-| [react-express-mysql](https://github.com/onespace10/dockers/docker-compose/master/nginx2)               | A sample React application with a Node.js backend and a MySQL database |
-| [react-java-mysql](https://github.com/onespace10/dockers/docker-compose/master/centos7_user)            | A sample React application with a Spring backend and a MySQL database  |
-| [react-nginx](https://github.com/onespace10/dockers/docker-compose/master/ubuntu_user)                  | A sample React application with Nginx                                  |
-| [react-rust-postgres](https://github.com/onespace10/dockers/docker-compose/master/mysql)                | A sample React application with a Rust backend and a Postgres database |
-| [slack-clone-docker-main](https://github.com/onespace10/dockers/docker-compose/master/pyspark-notebook) | A sample Slack Clone app built with the MERN stack                     |
+| [react-express-mongodb](https://github.com/onespace10/docker-compose/tree/main/react-express-mongodb)              | A sample React application with a Node.js backend and a Mongo database |
+| [react-express-mysql](https://github.com/onespace10/docker-compose/tree/main/react-express-mysql)               | A sample React application with a Node.js backend and a MySQL database |
+| [react-java-mysql](https://github.com/onespace10/docker-compose/tree/main/react-java-mysql)            | A sample React application with a Spring backend and a MySQL database  |
+| [react-nginx](https://github.com/onespace10/docker-compose/tree/main/react-nginx)                  | A sample React application with Nginx                                  |
+| [react-rust-postgres](https://github.com/onespace10/docker-compose/tree/main/react-rust-postgres)                | A sample React application with a Rust backend and a Postgres database |
+| [slack-clone-docker-main](https://github.com/onespace10/docker-compose/tree/main/slack-clone-docker-main) | A sample Slack Clone app built with the MERN stack                     |
 
 # Docker file list
 
