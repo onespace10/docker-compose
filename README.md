@@ -15,6 +15,7 @@ This git repository is for docker-compose script including react from Docker Hub
 
 # Docker file list
 
+```
 C:.
 ├─react-express-mongodb
 │  ├─backend
@@ -85,6 +86,7 @@ C:.
     ├─server
     └─src
         └─component
+```
 
 # todo
 
@@ -93,18 +95,24 @@ user@DAYA MINGW64 ~/docker-compose
 $ git init
 Initialized empty Git repository in C:/Users/user/docker-compose/.git/
 
-user@DAYA MINGW64 ~/docker-compose (master)
+$ git branch
+*master
+Then change master branch to main branch. Also pls check github repository settings(branch is main or not)
+
+$ git branch -m master main
+
+user@DAYA MINGW64 ~/docker-compose (main)
 $ git add -A
 
-user@DAYA MINGW64 ~/docker-compose (master)
+user@DAYA MINGW64 ~/docker-compose (main)
 $ git commit -m "My react dockers"
 
 
-user@DAYA MINGW64 ~/dockers-master/dockers-master (master)
+user@DAYA MINGW64 ~/dockers-master/dockers-master (main)
 $ git remote add origin https://github.com/UserId/docker-compose.git
 
-user@DAYA MINGW64 ~/dockers-compose (master)
-$ git push -u origin master
+user@DAYA MINGW64 ~/dockers-compose (main)
+$ git push -u origin main
 ```
 
 # SEE ALSO
